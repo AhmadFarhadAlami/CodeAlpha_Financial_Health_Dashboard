@@ -57,10 +57,10 @@ CodeAlpha Power BI Internship – November 2026
 ## Dashboard Screenshots
 
 ### 1. Financial Overview
-![Financial Overview](screenshots/financial-overview.png)
+![Financial Overview](screenshots/financial-overview.PNG)
 
 ### 2. Cash Flow Analysis
-![Cash Flow Analysis](screenshots/financial-cash-flow-analysis.png)
+![Cash Flow Analysis](screenshots/financial-cash-flow-analysis.PNG)
 
 ### 3. Balance Sheet & Forecast
-![Balance Sheet and Forecast](screenshots/financial-balance-sheet-forecast.png)
+![Balance Sheet and Forecast](screenshots/financial-balance-sheet-forecast.PNG)
