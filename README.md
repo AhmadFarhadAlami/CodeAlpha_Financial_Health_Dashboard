@@ -53,3 +53,14 @@ Author
 Ahmad Farhad Alami
 Internship
 CodeAlpha Power BI Internship – November 2026
+
+## Dashboard Screenshots
+
+### 1. Financial Overview
+![Financial Overview](screenshots/financial-overview.png)
+
+### 2. Cash Flow Analysis
+![Cash Flow Analysis](screenshots/financial-cash-flow-analysis.png)
+
+### 3. Balance Sheet & Forecast
+![Balance Sheet and Forecast](screenshots/financial-balance-sheet-forecast.png)
